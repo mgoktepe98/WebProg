@@ -1,0 +1,83 @@
+html>
+<head>
+<link rel = "stylesheet"   href = "style.css" />
+<title>PULSARE</title>
+</head>
+<body>
+
+<h1>DARK ABYSS OF THE MIND</h1>
+<img src="headshot.jpg" alt="pic" >
+<p>
+I AM Mustafa Goktepe
+</p>
+<h2> My List of hobbies! </h2>
+<ul>
+  <li>Soccer (Also known as Football everywhere else) <a href="https://www.transfermarkt.co.uk/">Here is a database I use to track players</a> </li>
+  <li>Video <span class="key">Games</span></li>
+  <li>Watching Movies</li>
+  <li>Debates</li>
+  <li>YouTube <a href="https://www.youtube.com/">Great source of information!</a></li>
+  <li>Researching</li>
+  <li>Analysis</li>
+</ul>
+<h2> Top 10 Favorites <span class="key">Games</span> </h2>
+<ol>
+  <li>Counter-Strike:Global Offensive</li>
+  <li>Call of Duty <span class="key">Series</span></li>
+  <li>FIFA <span class="key">Series</span></li>
+  <li>Tomb Raider <span class="key">Series</span></li>
+  <li>Uncharted <span class="key">Series</span></li>
+  <li>Yu-Gi-Oh <span class="key">Series</span></li>
+  <li>Pokemon <span class="key">Series</span></li>
+  <li>Football Manager <span class="key">Series</span></li>
+  <li>Legend of Zelda <span class="key">Series</span></li>
+  <li>NBA2K <span class="key">Series</span></li>
+</ol>
+<h2> My Resume </h2>
+<ul>
+  <li>Education</li>
+	<ul>
+	<li>Orlando Science High School</li>
+	<li>University of Central Florida</li>
+	<li> <span class="key">Georgia State</span> University</li>
+	</ul>
+  <li>Job History</li>
+	<ol>
+	<li>Amazon Seller</li>
+	<li>Ebay Seller</li>
+	<li>Boutique Rugs LLC.</li>
+		<ul>
+		<li>Customer Service Rep</li>
+		<li>Customer Service Manager/Supervisor</li>
+		<li>IT intern</li>
+		</ul>
+	</ol>
+</ul>
+<div class = "quote">
+<q> Man is born free and everywhere he is in chains. </q>
+<br>
+~ Jean-Jacques Rousseau
+</div>
+<br>
+<br>
+<p>
+Additional Links to Party with tonight!
+<br>
+<a href="https://blog.counter-strike.net/index.php/category/updates/">My favorite game of all time!</a>
+<br>
+<a href="https://www.ea.com/games/fifa/fifa-21">Most broken <span class="key">Games</span> ever!</a>
+<br>
+<a href="https://www.netflix.com/">Seize the night with a nice movie</a>
+<br>
+<br>
+<br>
+<br>
+<a href="style.css" download>Download The CSS file here!</a>
+<br>
+<br>
+<a href="http://www.cs.gsu.edu/">Click this to go to a magical land!</a>
+<br>
+<br>
+</p>
+</body>
+</html>

@@ -1,0 +1,49 @@
+body {
+ background-image: url('grey.jpg');
+ background-repeat: no-repeat;
+ background-attachment: fixed;
+ background-size: cover;
+ color:#9300FF;
+ font-family: sans-serif;
+}
+h1 {
+ color: #000000;
+ text-align: center;
+ font: italic 200% fantasy;
+}
+h2 {
+	text-decoration: underline;
+	color: #000000;
+}
+
+img {
+	border-radius: 8px;
+	width:150; 
+	height:300;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+a{
+	color: #61FF00;
+    background-color: transparent;
+    text-decoration: underline;
+}
+a:hover{
+	color: #00FFEC;
+}
+span.key {
+	color: #FF0C00;
+	font-style: bold;
+}
+p {
+ 
+ text-align: center;
+ color: navy;
+ border: 3px groove #00000;
+}
+.quote {
+ text-align: center;
+ color: white;
+ font-size: 35;
+}
